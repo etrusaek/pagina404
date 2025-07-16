@@ -1,5 +1,7 @@
-![GitHub License](https://img.shields.io/github/license/etrusaek/pagina404)
 ![GitHub last commit](https://img.shields.io/github/last-commit/etrusaek/pagina404)
+![GitHub License](https://img.shields.io/github/license/etrusaek/pagina404)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/etrusaek/pagina404)
+
 
 <h1 align= "center"> Página 404 </h1>
 
